@@ -10,11 +10,17 @@ The main purpose of this project is to build a prototype mouse blood atlas to se
 The data analysis process conducted in this project are recorded in a serie of jupyter notebooks in /notebook folder, with each of them handle a relative smaller analysis task. The index of these notebooks are listed below.
 
 1_data_collection_Encode
+
 1_data_collection_Haemosphere
+
 1_data_collection_Stemformatics
+
 2_data_integration
+
 3_threshold_selection_and_data_integration
+
 4_PCA
+
 5_test_stability
 
 # Datasets
